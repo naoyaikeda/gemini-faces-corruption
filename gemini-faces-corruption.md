@@ -7,7 +7,7 @@ title: "Geminiの出力崩壊"
 
 ---
 
-![](images/LRM_20230912_085521.jpg)
+<img src="images/LRM_20230912_085521.jpg" height=300px>
 
 
 - Gemini → 富山県高岡市と誤推定（「ATXNAビル」誤読）
